@@ -1,0 +1,14 @@
+1. Keyboard
+2. Plugboard
+3. Rotors (3 Rotors + Reflector)
+4. Plugboard
+5. Result
+----------------------------------
+Every time a key is pressed, the first rotor is turned.
+The second rotor turns when the first rotor hits a certain key, and the third rotor turns when the second rotor hits a certain key.
+----------------------------------
+SETTINGS:
+Rotor order (choose 3 out of 5)
+Ring setting of each rotor + notch
+Starting position for each rotor
+Configuration of plugboard
